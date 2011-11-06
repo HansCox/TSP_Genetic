@@ -5,5 +5,5 @@
 #define DEBUG  0 //0=NOT DEBUG, 1=DEBUG
 #define DISPLAY_SOLUTIONS_EACH_ITERATION  0 //Display in cullSolsByWt()
 #define MUTATE_PROBABILITY_IN_PERCENT  25
-#define MUTATE_N_TIMES  1
+#define MUTATE_N_TIMES  10
 #define DISPLAY  0  //Display output as solutions are computed
